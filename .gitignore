@@ -1,0 +1,11 @@
+venv/
+__pycache__/
+*.pyc
+artifacts/
+inception_balanced_trained_weights_1/
+lib/
+lib64/
+bin/
+include/
+*.pth
+*.pt
